@@ -47,7 +47,8 @@ public class pageobjectdesign extends BaseTest {
 		PaymentPage.SelectCountry("india");
 		PaymentPage.ProceedPayment();
 		Thread.sleep(1000);
-
+		
+		//verify in Git
 		// Click the submit button using JavaScript executor
 		// Wait for the confirmation message to appear
 
